@@ -1,0 +1,51 @@
+Singer: Eminem
+    Album: The_Eminem_Show, Hip-hop
+        Song: Business, 251
+        Song: Superman, 350
+        Song: Till_I_Collapse, 297
+    Album: Kamikaze, Hip_hop
+        Song: Lucky_You, 244
+        Song: Stepping_Stone, 309
+        Song: Kamikaze, 216
+        Song: Venom, 269
+Singer: 50_Cent
+    Album: Get_rich_Or_Die_Tryin', Rap
+        Song: In_Da_Club, 227
+        Song: High_All_The_Time, 269
+        Song: P.I.M.P., 254
+        Song: Poor_Lil_Rich, 199
+    Album: The_Massacre, Rap
+        Song: This_Is_50, 184
+        Song: Candy_Shop, 209
+        Song: Just_A_Lil_Bit, 239
+        Song: Hate_It_Or_Love_It, 263
+Singer: Ariana_Grande
+    Album: thank_u_next, Pop
+        Song: 7_rings, 178
+        Song: thank_u_next, 207
+        Song: break_up_with_your_girlfriend_i'm_bored, 190
+    Album: Positions, Pop
+        Song: 34+35, 173
+        Song: off_the_table, 239
+        Song: safety_net, 208
+        Song: pov, 201
+Singer: Selena_Gomez
+    Album: Revival, Pop
+        Song: Revival, 246
+        Song: Same_Old_Love, 229
+        Song: Good_For_you, 221
+    Album: Rare, Pop
+        Song: Boyfriend, 161
+        Song: Lose_You_To_Love_Me, 206
+        Song: People_You_Know, 194
+        Song: Fun, 189
+Singer: DaBaby
+    Album: Baby_On_Baby, Hip-hop
+        Song: Suge, 163
+        Song: Baby_Sitter, 157
+        Song: Best_Friend, 186
+Singer: Kendrick_Lamar
+    Album: DAMN., Hip-hop
+        Song: DNA., 185
+        Song: HUMBLE., 176
+        Song: LOVE., 214
